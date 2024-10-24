@@ -1,0 +1,49 @@
+name: myrta.prohaska
+description: instruction set
+version: 0.0.1
+author: xsqrdunj.3rb7kqul@7zj0yoe5.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: myrtaprohaska
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-10-24 20:24:05'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-10-24 20:24:05'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-10-24T20:24:05.181184Z'
+  name: plibMaven
+  version: 8.5.0-SNAPSHOT
+  id: '838064092'
+  createdAt: '2024-10-24T20:24:05.181184Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
